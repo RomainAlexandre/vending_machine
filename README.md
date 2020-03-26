@@ -1,5 +1,5 @@
 # Vending Machine
-<!-- [![Circle CI](https://circleci.com/gh/RomainAlexandre/log_parser.svg?style=shield)](https://circleci.com/gh/RomainAlexandre/log_parser.app) -->
+[![Circle CI](https://circleci.com/gh/RomainAlexandre/vending_machine.svg?style=shield)](https://circleci.com/gh/RomainAlexandre/vending_machine.app)
 
 A simple vending machine that performs as follow:
 - Once an item is selected and the appropriate amount of money is inserted, the vending machine should return the correct product.
