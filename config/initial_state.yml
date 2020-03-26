@@ -1,0 +1,26 @@
+:available_items:
+  13:
+    name: Kitkat
+    price: 2.59
+    quantity: 15
+  34:
+    name: Mars bar
+    price: 1.59
+    quantity: 10
+  36:
+    name: Twix
+    price: 2
+    quantity: 5
+  42:
+    name: Still water bottle
+    price: 3.55
+    quantity: 1
+:available_change:
+  2: 5
+  1: 10
+  0.5: 20
+  0.2: 25
+  0.1: 30
+  0.05: 35
+  0.02: 40
+  0.01: 45

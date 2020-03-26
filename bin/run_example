@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH << 'lib'
+
+require "vending_machine"
+require "yaml"
+
+initial_state = YAML.load_file('./config/initial_state.yml')
+vending_machine = VendingMachine.new(**initial_state)
+
+vending_machine.select_item(34)
+vending_machine.insert_money(1)
+vending_machine.insert_money(1)

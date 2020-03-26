@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+$LOAD_PATH << 'lib'
+
+require "vending_machine"
+
+require "irb"
+
+IRB.start
